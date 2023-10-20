@@ -10,7 +10,7 @@
  
   ## Arbeitspakete für 20.10.2023
 
-✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
+
 
 
 | Vorbereitung             | 
