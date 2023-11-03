@@ -41,9 +41,17 @@ Probleme. Beim Handlungsziel 4 bin ich dafür nicht so weit gekommen, weil ich i
 
 Ich habe Handlungsziel und 4 diesmal sehr gut verstanden und konnte mich gut auf dieses Handlungziel fokusssieren. Bei dem Handlungsziel 5 habe ich einen einfachen Code benutzt
 um Konventionen zu erklären. Also anhand von Hallo Welt habe ich erklärt wie man Konventionen benutzt. Bis zu Handlungsziel 6 bin ich leider nicht gekommen, weil mich die anderen
-Handlungsziele aufgehalten haben.
+Handlungsziele aufgehalten haben. (59)
 
 ## Arbeitspakete für 3.11.2023
 
 Ich hatte für diese Woche keine Arbeitspakete erstellt, weil ich mir nicht sicher war was ich nächste Woche vor hab. Also ob ich schon mit dem Projekt beginnen kann oder warten muss. Ich habe aber diese Woche an meinem Projekt gearbeitet. Also ich habe zuerst geschaut was ich alles nach Plan machen muss und dann direkt mit dem PAP gestartet. Der PAP ging etwas länger als gedacht
-und ich hatte manchmal schwierigkeiten etwas zu finden was man einbauen kann. Aber dennoch denke ich, dass das PAP am ende nicht so schlecht geworden ist. 
+und ich hatte manchmal schwierigkeiten etwas zu finden was man einbauen kann. Aber dennoch denke ich, dass das PAP am ende nicht so schlecht geworden ist. (93)
+
+## Arbeitspakete für 10.11.2023
+
+- [ ] PAP Pers. Budgetplaner
+- [ ] Programmieren starten 
+- [ ] Projekt
+
+
