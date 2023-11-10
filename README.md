@@ -50,8 +50,9 @@ und ich hatte manchmal schwierigkeiten etwas zu finden was man einbauen kann. Ab
 
 ## Arbeitspakete für 10.11.2023
 
-- [ ] PAP Pers. Budgetplaner
+- [ x] PAP Pers. Budgetplaner
 - [ ] Programmieren starten 
-- [ ] Projekt
+- [x ] Projekt
 
+Heute habe ich mich zum ersten mal mich richtig mit meinem Leitprojekt beschäftigt. Zuerst habe ich mal geschaut was es alles in einem Budgetplaner braucht. Danach habe ich mit meinem Programmablaufplan gestartet. Den PAP zu machen gelang mir eigentlich sehr gut ich hatte kaum Probleme und musste nicht so viel überarbeiten. Als ich fertig war mit meinem PAP habe ich mich mit Forms beschäftigt. Das Video auf Youtube und der Input von Herr COlic haben mir sehr dabei geholfen. Mit dem Programmieren konnte ich nicht richtig starten da ich mich in Forms nicht so sehr auskenne. (103)
 
