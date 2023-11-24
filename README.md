@@ -56,3 +56,15 @@ und ich hatte manchmal schwierigkeiten etwas zu finden was man einbauen kann. Ab
 
 Heute habe ich mich zum ersten mal mich richtig mit meinem Leitprojekt beschäftigt. Zuerst habe ich mal geschaut was es alles in einem Budgetplaner braucht. Danach habe ich mit meinem Programmablaufplan gestartet. Den PAP zu machen gelang mir eigentlich sehr gut ich hatte kaum Probleme und musste nicht so viel überarbeiten. Als ich fertig war mit meinem PAP habe ich mich mit Forms beschäftigt. Das Video auf Youtube und der Input von Herr COlic haben mir sehr dabei geholfen. Mit dem Programmieren konnte ich nicht richtig starten da ich mich in Forms nicht so sehr auskenne. (103)
 
+## Arbeitspakete für 24.11.2023
+
+- [ ] Visual Paradigm
+- [ ] Hausaufgaben 162
+- [ ] Programmierprojekt weiter machen
+
+
+Ich konnte mich heute gut in Visual Paradigm einfinden und konnte mich gut aus. Die Hausaufgaben für Modul 162 war das ich ein Konzeptionelle Tabelle in eine Logische umwandeln soll. Dies hat zum Glück geklappt und ich hatte kaum schwierigkeiten. Die einzige Schwierigkeiten waren die Namen auswendig zu können ich musste hin und da ein bisschen spicken. Wir sind mit dem Programmierprojekt schon fast fertig und deswegen entschied ich mich Modul 162 zu reptieren, da wir bald einen Test darüber haben.(81)
+
+## Arbeitspakete für 01.12.2023
+
+- [ ] Modul 162 repetieren
