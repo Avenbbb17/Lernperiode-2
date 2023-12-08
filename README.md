@@ -68,3 +68,11 @@ Ich konnte mich heute gut in Visual Paradigm einfinden und konnte mich gut aus. 
 ## Arbeitspakete für 01.12.2023
 
 - [ ] Modul 162 repetieren
+
+Ich habe heute mich mit dem Moduk 162 beschäftigt. Ich hab geschaut wie ein konzeptionelles Datenmodel aufgebaut ist und dann wie ein logisches aussieht. Ich konnte mich gut einfinden aber für den Test muss ich es immer noch mehr einfinden.
+
+## Arbeitspakete für 07.12.2023
+- [ ] Modul 179
+- [ ] Neues Progammierprojekt
+
+Ich habe heute am neuen Modul gearbeitet. Und dabei machte 1704 unf 1705. Es war ein lehrreicher Abschnitt. Die Folien haben mir auch sehr geholfen das Tehma zu verstehen. Ich habe mich heute auch entschieden das Projekt zu wechseln. Und ich will jetzt eine interaktive Karte erstellen in der man Erreignisse in der Bibel genauer Anschauen. Zmb. Man klickt auf Jerusalem und es zeigt dir Geschichten die Dort passieren. Ich weiss nicht ob sie zu schwer wird aber ich glaube es ist schon möglich.
