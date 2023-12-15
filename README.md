@@ -76,3 +76,10 @@ Ich habe heute mich mit dem Moduk 162 beschäftigt. Ich hab geschaut wie ein kon
 - [ ] Neues Progammierprojekt
 
 Ich habe heute am neuen Modul gearbeitet. Und dabei machte 1704 unf 1705. Es war ein lehrreicher Abschnitt. Die Folien haben mir auch sehr geholfen das Tehma zu verstehen. Ich habe mich heute auch entschieden das Projekt zu wechseln. Und ich will jetzt eine interaktive Karte erstellen in der man Erreignisse in der Bibel genauer Anschauen. Zmb. Man klickt auf Jerusalem und es zeigt dir Geschichten die Dort passieren. Ich weiss nicht ob sie zu schwer wird aber ich glaube es ist schon möglich.
+
+## Arbeitspakete für 15.12.2023
+- [ ] Modul 117
+- [ ] Modul 164
+
+Ich konnte mich heute gut konzentrieren beim bearbeiten der Module. Bei Modul 164 konnte ich die Aufträge fertig stellen und bin jetzt bereit für das nächste mal. Es war auch nicht so eine grosse heraus forderung. Beim Modul 117 konnte ich immer noch nicht die Tabelle von 1708 fertigstellen. Es ist irgendwie schwer zu verstehen wie man es machen sollte. Also 1708 ist im vergleich zum rest vom Modul 117 eine 
+grosse Herausforderung.
