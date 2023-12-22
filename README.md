@@ -94,4 +94,9 @@ Ferien und ich glaube das drei Wochen nicht genug Zeit sind.
 
 ## Reflexion
 
-In den Vergangenen Wochen habe ich mich oft mit dem Programmierprojekt beschäftigt
+In den Vergangenen Wochen habe ich mich oft mit dem Programmierprojekt beschäftigt und mit den Modulen. Ich fand das eigentlich gut das ich mich mit den Themen zu beschäftigen. Ein Programmablaufplan kann ich jetzt sehr gut machen und mit Windows Forms habe ich mich auch sehr damit befasst. Mit den Modulen war ich beim Modul 162 jetzt nicht so konzentriert am arbeiten. Ich habe mich leicht ablenken lassen und habe dann zum Beispiel etwas anderes gemacht.
+
+Für die nächsten Wochen habe ich vor, mehr Zeit darauf zu verwenden, Programme zu schreiben und weniger Zeit für die Schulmodule zu nutzen. Es ist wichtig, beides zu machen, aber ich möchte besser darin werden, echte Sachen zu programmieren. Und mein Ziel ist es noch ein passendes Programmierprojekt für die drei Wochen zu finden.
+
+
+
