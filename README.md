@@ -83,3 +83,15 @@ Ich habe heute am neuen Modul gearbeitet. Und dabei machte 1704 unf 1705. Es war
 
 Ich konnte mich heute gut konzentrieren beim bearbeiten der Module. Bei Modul 164 konnte ich die Aufträge fertig stellen und bin jetzt bereit für das nächste mal. Es war auch nicht so eine grosse heraus forderung. Beim Modul 117 konnte ich immer noch nicht die Tabelle von 1708 fertigstellen. Es ist irgendwie schwer zu verstehen wie man es machen sollte. Also 1708 ist im vergleich zum rest vom Modul 117 eine 
 grosse Herausforderung.
+
+## Arbeitspakete für 22.12.2023
+- [ ] Modul 117
+- [ ] Modul 164
+
+Ich habe heute im Onlineunterricht mich wieder mit den Modulen 117 und 164 beschäftigt. Heute konnte ich mich eigentlich auch gut konzentrieren. Ich hatte auch keine Probleme mit der Ablenkung. Im Modul 117
+habe ich jz alle meine Pläne durch. Im Modul 164 hatte ich am ende schwierigkeiten die Videos zu verstehen, aber insgesamt lief es gut. Ich machte mir auch gedanken über mein Programmierprojekt für nach den 
+Ferien und ich glaube das drei Wochen nicht genug Zeit sind.
+
+## Reflexion
+
+In den Vergangenen Wochen habe ich mich oft mit dem Programmierprojekt beschäftigt
